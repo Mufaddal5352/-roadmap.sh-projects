@@ -33,7 +33,7 @@ This section contains projects built following the [Roadmap.sh Frontend Develope
       <h3>📄 Single-Page CV</h3>
       <p align="left">A responsive, clean, single-page interactive CV built with semantic HTML and custom CSS styles.</p>
       <p>
-        <a href="https://htmlpreview.github.io/?https://github.com/hatimrampurawala-bit/roadmap.sh-projects/blob/master/Frontend-Projects/01-single-page-cv/index.html">
+        <a href="https://htmlpreview.github.io/?https://github.com/Mufaddal5352/-roadmap.sh-projects/blob/master/Frontend-Projects/01_single_page_cv/index.html">
           <img src="https://img.shields.io/badge/Live%20Demo-View-brightgreen?style=flat-square" alt="Demo">
         </a>
         &nbsp;
